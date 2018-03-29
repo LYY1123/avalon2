@@ -1,0 +1,16 @@
+<div class="listWrapper" ms-important="homeList">
+  <div class="list-header">
+    <div class="list-title">标题</div>
+    <div class="list-right">
+      <span class="list-creatTime">创建时间</span>
+      <span class="list-updateTime">更新时间</span>
+    </div>
+  </div>
+  <div class="list-content" :for="item in @list">
+    <div class="list-title"><a :attr="{href: item.link,alt: item.title}">{{item.title}}</a></div>
+    <div class="list-right">
+      <span class="list-creatTime">{{item.createTime}}</span>
+      <span class="list-updateTime">{{item.updateTime}}</span>
+    </div>
+  </div>
+</div>

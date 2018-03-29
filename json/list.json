@@ -1,0 +1,20 @@
+{
+	"verson" : "1.0",
+	"headerLink": "https://github.com/LYY1123",
+	"name" : "OLLiu",
+	"project-name": "大前端的养成之路",
+	"data" : [
+		{
+			"title" : "主页源码",
+			"link": "https://github.com/LYY1123/lyyglob.github.io",
+			"createTime" : "2018-03-02",
+			"updateTime" : "2018-03-13"
+		},
+		{
+			"title" : "webpack2+avalon2,多模块单页面",
+			"link": "https://github.com/LYY1123/lyyglob.github.io",
+			"createTime" : "2018-01-10",
+			"updateTime" : "2018-03-02"
+		}
+	]
+}

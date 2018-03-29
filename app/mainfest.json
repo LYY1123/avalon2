@@ -1,0 +1,14 @@
+{
+    "short_name": "OLLIU",
+    "name": "大前端的养成之路",
+    "icons": [
+        {
+            "src": "img/header-ico.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
